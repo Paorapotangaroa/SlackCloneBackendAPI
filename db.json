@@ -39,56 +39,56 @@
   "messages": [
     {
       "id": "1",
-      "channelId": 1,
-      "senderId": 1,
+      "channelId": "1",
+      "senderId": "1",
       "content": "Hey everyone, welcome to the general channel!",
       "timestamp": "2025-10-09T09:00:00Z"
     },
     {
       "id": "2",
-      "channelId": 1,
-      "senderId": 2,
+      "channelId": "1",
+      "senderId": "2",
       "content": "Thanks Alice! Happy to be here.",
       "timestamp": "2025-10-09T09:01:00Z"
     },
     {
       "id": "3",
-      "channelId": 2,
-      "senderId": 3,
+      "channelId": "2",
+      "senderId": "3",
       "content": "Design team: Please upload your latest mockups here.",
       "timestamp": "2025-10-09T09:05:00Z"
     },
     {
       "id": "4",
-      "channelId": 2,
-      "senderId": 1,
+      "channelId": "2",
+      "senderId": "1",
       "content": "Got it! Uploading now.",
       "timestamp": "2025-10-09T09:06:00Z"
     },
     {
       "id": "5",
-      "channelId": 3,
-      "senderId": 2,
+      "channelId": "3",
+      "senderId": "2",
       "content": "Hey devs, deployment is delayed due to CI issues.",
       "timestamp": "2025-10-09T09:10:00Z"
     },
     {
       "id": "6",
-      "channelId": 3,
-      "senderId": 3,
+      "channelId": "3",
+      "senderId": "3",
       "content": "I'll look into the logs and report back.",
       "timestamp": "2025-10-09T09:12:00Z"
     },
     {
       "id": "60d1",
-      "senderId": 1,
+      "senderId": "1",
       "content": "Hello",
       "timestamp": "2025-10-09T19:02:43.858Z"
     },
     {
       "id": "50ec",
       "channelId": "1",
-      "senderId": 1,
+      "senderId": "1",
       "content": "Hello World",
       "timestamp": "2025-10-09T19:04:08.500Z"
     }
